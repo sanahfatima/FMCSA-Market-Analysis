@@ -23,7 +23,7 @@ This dataset is widely used for regulatory, operational, and economic analysis w
 **Objectives**
 
 This project aims to:
-- Clean and structure raw FMCSA census data for analysi
+- Clean and structure raw FMCSA census data for analysis
 - Explore geographic and operational trends among motor carriers
 - Analyze company size distributions and operational characteristics
 - Identify patterns that may inform logistics, compliance, or market insights
