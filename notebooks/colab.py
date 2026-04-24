@@ -1,4 +1,4 @@
-***pull data***
+#pull data from the fmcsa dataset
 
 import pandas as pd
 import requests
@@ -15,3 +15,22 @@ data = response.json()
 df = pd.DataFrame(data)
 
 df.head()
+
+#clean 
+
+df.columns = df.columns.str.lower().str.strip()
+
+df.replace("", pd.NA, inplace=True)
+
+# Important columns
+cols = [
+    "phy_state",
+    "carrier_operation",
+    "hm_ind",
+    "fleetsize",
+    "total_drivers",
+    "crgo_produce",
+    "crgo_liqgas"
+]
+
+df = df[cols]
