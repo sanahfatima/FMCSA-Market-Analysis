@@ -1,4 +1,24 @@
-**FMCSA Company Census Data Analysis**
+fmcsa market analysis
+
+- using python to pull data
+- using python to clean the data
+- using python to analyse and generate insights
+
+  sql, storing the data into sql to clean and manipulate
+  working with sql to get instant numbers by running queries
+
+  pulling fmcsa dataset into power bi using odata (Open Data Protocol)
+  building power bi dashborad for dialy tracking, making business decisons and easier understanding
+
+  building marketing projects based on the analysis and managing them in jira and smartsheet. 
+  
+
+
+
+
+
+
+
 
 **Overview**
 
