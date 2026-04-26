@@ -18,17 +18,6 @@ Compliance and safety patterns
 
 Operational segmentation across regions
 
-Tools Used
-
-Power BI
-
-OData (API connection)
-
-Power Query
-
-Status
-
-
 ***Next Steps***
 Finalize dashboard visuals
 
